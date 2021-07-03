@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head><title>Commission</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+    <h1><a href="이리벙.html">COMMISSION</a></h1>
+<ol>
+    <li><a href="1.html">SD타입</a></li>
+    <li><a href="2.html">로그타입</a></li>
+    <li><a href="3.html">LD타입</a></li>
+</ol>
+추가금
+<ul>
+    <li>빠른마감</li>
+    <li>배경</li>
+    <li>소품</li>
+</ul>
+
+<h2><a href="https://rebcommission.postype.com/post/2358284">이리벙 커미션</a></h2>
+
+ <strong>이리벙 상시 커미션</strong>
+ <p><img src="이리벙 커미션.png" width="300"></p>
+
+<p>모든 작업물의 저작권은 저(@flqjd_Com)에게 있습니다. 
+그림을 업로드 할 때 아이디를 적어 출처표시 해주시길 바랍니다.
+2차 가공(트레이싱, 리사이징, 리터치 등) 및 도용을 금지합니다.
+기본 사이즈는(1000*1000)입니다. 타입과 내용에 따라 유기적으로 변경됩니다.
+비 상업적 개인 소장용 굿즈 제작은 문의해주시면 맞춤 크기 변환해드립니다.
+결제는 계좌 입금만 가능합니다.  입금 순서대로 작업 들어갑니다. 
+모든 완성본은 아이디가 추가된 후 업로드 됩니다. 
+</p>
+<p style="margin-top:20px;">현재 빠른마감 닫았습니다. 방학시즌에 와주세요!
+환불은 러프에서 80% 선화에서 50% 까지 가능하며 채색이 들어간 후에는 환불 불가합니다.
+문의및 커미션 신청: <strong>@flqjd_Com(디엠), https://open.kakao.com/o/sK2iBhQc(오픈채팅방)</strong>비공개 요청 시 기간을 말씀해주세요. 영구적인 비공개 요청은 받지 않습니다.
+모든 작업물은 커미션 샘플 및 포트폴리오에 들어갈 수 있습니다.</p></body></html>
